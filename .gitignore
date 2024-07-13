@@ -26,9 +26,9 @@ dist-ssr
 *.sw?
 
 
-./Main_API/
-./Main_WEB/
-./Negotiation_API/
-./Negotiation_WEB/
-./Organization_API/
-./Organization_WEB/
+/Main_API/
+/Main_WEB/
+/Negotiation_API/
+/Negotiation_WEB/
+/Organization_API/
+/Organization_WEB/
